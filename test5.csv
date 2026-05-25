@@ -1,0 +1,21 @@
+Name,Age,Experience_Years,Department,Education,Salary,City,Performance_Rating,Remote_Work,Joined_Year
+Ahmed,25,2,Data,Bachelors,5000,Dubai,Good,Yes,2022
+Sarah,30,5,HR,Masters,8500,Sharjah,Excellent,No,2019
+John,28,3,IT,Bachelors,7000,Abu Dhabi,Average,Yes,2021
+Fatima,35,8,Finance,MBA,12000,Dubai,Excellent,No,2016
+Ali,24,1,Marketing,Bachelors,4500,Ajman,Good,Yes,2023
+Priya,32,6,IT,Masters,9500,Dubai,Good,No,2018
+David,40,12,Management,MBA,18000,Abu Dhabi,Excellent,No,2012
+Noor,27,4,Data,Bachelors,6800,Sharjah,Average,Yes,2020
+Hassan,29,5,Finance,Masters,9000,Dubai,Good,No,2019
+Emily,31,7,HR,MBA,10500,Abu Dhabi,Excellent,Yes,2017
+Zain,26,2,IT,Diploma,5200,Ajman,Average,Yes,2022
+Aisha,33,9,Marketing,Masters,11500,Dubai,Excellent,No,2015
+Michael,38,11,Management,MBA,17000,Sharjah,Good,No,2013
+Ravi,27,3,Data,Bachelors,6500,Dubai,Average,Yes,2021
+Lina,29,4,Finance,Masters,8000,Abu Dhabi,Good,Yes,2020
+Omar,36,10,IT,MBA,14000,Dubai,Excellent,No,2014
+Sophia,23,1,HR,Bachelors,4200,Ajman,Average,Yes,2023
+Khalid,34,8,Marketing,Masters,11000,Sharjah,Good,No,2016
+Meera,28,5,Data,Masters,8700,Dubai,Excellent,Yes,2019
+Daniel,41,15,Management,PhD,22000,Abu Dhabi,Excellent,No,2010
