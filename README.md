@@ -1,4 +1,4 @@
-# Salary Prediction using PySpark Linear Regression
+# Simple Salary Prediction using PySpark Linear Regression
 
 This project demonstrates a Machine Learning pipeline using PySpark to predict employee salaries based on different features such as age, experience, education, and categorical variables.
 
